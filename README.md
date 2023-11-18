@@ -1,6 +1,6 @@
 # Project1
 
-  # Year & Season trends (Patricia de Assis)
+  # Year & Season trends (Patricia de Assis) - Ref code: project1_pma_code.ipynb in main
     #Average price of Uber fare during the period of 2009 and 2015 and relationship with % Inflation of the same period 
 ![image](https://github.com/Leena-680/Project1/assets/143486132/28c159e9-a59b-4d36-b656-06b3985160f8)
   #Increase/Decrease of Uber rides year on year during the period of 2009-2015
