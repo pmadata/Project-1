@@ -36,9 +36,11 @@ Developer - Patricia de Assis
     ![image](https://github.com/Leena-680/Project1/assets/143486132/4e8a06c7-0536-4386-a97b-ae59b91b4d06)
 
     #Increase/Decrease of Uber rides year on year during the period of 2009-2015:
-    ![image](https://github.com/Leena-680/Project1/assets/143486132/1f997ada-6e47-4d35-8530-5350b5b9873b)
+    ![image](https://github.com/Leena-680/Project1/assets/143486132/7b5df7c4-6e98-4b97-b536-24a586d2b97f)
+    
     # Comparison of Total Number of rides between the 4 seasons in New York from 2009-2015:
-     ![image](https://github.com/Leena-680/Project1/assets/143486132/c25cd71a-ac16-4aaf-9eb9-bd014ad7783c)
+    ![image](https://github.com/Leena-680/Project1/assets/143486132/d6efb9e9-e907-4c58-823b-29f29edcd483)
+
 
 #Ekta code file for your question
 #description and graphs
