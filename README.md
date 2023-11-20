@@ -51,6 +51,7 @@ Identifying Peak Usage Day: The study sought to determine the most frequently ch
 Fare Classification:Average, maximum, and standard fares were classified to provide insights into the pricing dynamics during different time periods. This classification aimed to uncover variations in fare structures and understand how they relate to user demand.
 ![image](day_time.jpg)
 
+
 #Adam code file for your question
 #description and graphs
 
