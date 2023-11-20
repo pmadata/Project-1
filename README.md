@@ -58,8 +58,13 @@ Fare Classification:Average, maximum, and standard fares were classified to prov
 ![image](output-2.png)
 
 
-#Adam code file for your question
+Adam Faisal 
+
 #description and graphs
+The bar plot depicting the average fare amount over distance intervals is crucial for unraveling Uber's pricing dynamics. This visualization offers a comprehensive overview of how average fares fluctuate across various road distance brackets. By discerning trends within these intervals, it becomes possible to identify patterns in pricing strategy. Anomalies or significant variations in average fares can be flagged, prompting further investigation into potential pricing disparities. This insight-driven approach aids in making informed decisions about optimizing fare structures, ensuring competitiveness, and aligning pricing with user expectations.
+
+![image](Screenshot 2023-11-20 173320.png)
+On the other hand, the scatter plot illustrating the relationship between road distance and fare amount provides a nuanced perspective. It facilitates a visual exploration of the correlation between these two variables for individual rides. Not only does this aid in the identification of outliers—instances of unusually high or low fares for specific distances—but it also offers valuable insights for predictive modeling. Uncovering patterns in the distribution of fare amounts concerning road distance lays the groundwork for refining predictive algorithms and optimizing pricing models. Overall, these visualizations serve as powerful tools for extracting actionable intelligence from Uber's rides dataset, guiding strategic decisions and enhancing the overall efficiency of the service.
 
 DistanceAnalysis.ipynb
 Developer - Leena Chauhan
@@ -70,4 +75,6 @@ This code file compares how the choice to ride as single passenger or in group h
 
 It also compares choice of people to ride single or in a group based on day of the week and time of the day. Following is the output.
 ![Time](image-1.png)
+
+
 
