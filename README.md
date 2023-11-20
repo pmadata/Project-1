@@ -49,7 +49,7 @@ To understand the factors influencing ride demand on the Uber platform, a compre
 Time Period Classification: The 24-hour day was segmented into six distinct categories to identify the most prevalent timeframes for Uber rides. This categorization aimed to capture variations in demand and rider preferences throughout different parts of the day and night.
 Identifying Peak Usage Day: The study sought to determine the most frequently chosen day of the week for Uber rides. This involved analysing the volume of rides on each day to identify patterns and trends in user behavior.
 Fare Classification:Average, maximum, and standard fares were classified to provide insights into the pricing dynamics during different time periods. This classification aimed to uncover variations in fare structures and understand how they relate to user demand.
-![image](day_time.jpg)
+![image](output-2.png)
 
 
 #Adam code file for your question
